@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 48" fill="none">
+  <defs>
+    <linearGradient id="logoGrad" x1="0" y1="0" x2="40" y2="40" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#48cae4"/>
+      <stop offset="100%" stop-color="#0077b6"/>
+    </linearGradient>
+  </defs>
+  <!-- S Icon: two interlocking chevron shapes -->
+  <g transform="translate(4, 4)">
+    <!-- Top chevron -->
+    <path d="M20 0 L36 0 L24 16 L8 16 Z" fill="url(#logoGrad)" opacity="0.9"/>
+    <!-- Bottom chevron -->
+    <path d="M16 24 L32 24 L20 40 L4 40 Z" fill="url(#logoGrad)" opacity="0.65"/>
+    <!-- Middle connecting element -->
+    <path d="M24 16 L8 16 L16 24 L32 24 Z" fill="url(#logoGrad)" opacity="0.78"/>
+  </g>
+  <!-- Text -->
+  <text x="54" y="34" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-weight="700" font-size="26" fill="#e6f1ff" letter-spacing="-0.5">
+    Safe<tspan fill="url(#logoGrad)">and</tspan>sell
+  </text>
+</svg>
