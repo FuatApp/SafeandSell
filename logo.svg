@@ -16,6 +16,6 @@
   </g>
   <!-- Text -->
   <text x="54" y="34" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-weight="700" font-size="26" fill="#e6f1ff" letter-spacing="-0.5">
-    Safe<tspan fill="url(#logoGrad)">and</tspan>sell
+    Safe<tspan fill="#00b4d8">and</tspan>sell
   </text>
 </svg>
